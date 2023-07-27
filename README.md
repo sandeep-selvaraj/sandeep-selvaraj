@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on building and leveraging LLMs and optimizing existing Deep Learning networks for Image related processes.
+- How to reach me: On Discord: discordapp.com/users/730652607953109073
 <!--
 **sandeep-selvaraj/sandeep-selvaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
