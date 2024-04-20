@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on building and understanding LLMs, Multi-modal Deep Learning Models and optimizing existing Deep Learning networks for Image related processes.
-- How to reach me: On Discord: discordapp.com/users/730652607953109073
+- Moreover, taken a deep interest in Robotics, with main focus on understanding touch using vision based sensors and adpating SOTA perception ML models for image related tasks.
+- 🌱 I’m currently learning Rust, as I continue to broaden my programming skillset.
+- 📫 How to reach me: On Discord: discordapp.com/users/730652607953109073
 <!--
 **sandeep-selvaraj/sandeep-selvaraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
